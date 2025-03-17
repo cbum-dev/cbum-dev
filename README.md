@@ -1,21 +1,73 @@
-<h1 align="Left">Hi 👋, I'm Priyanshu Kumar</h1>
-<h3 align="left">A Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu200223&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu200223" /> </p>
+   ## Hey there👋, I'm [Kunal Garg](https://kgarg.vercel.app/)! 
 
-- 👨‍💻 All of my projects are available at [github](github)
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
-- 📫 How to reach me **priyanshukumar2002234@gmail.com**
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://twitter.com/priyanshu200223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshu200223" height="30" width="40" /></a>
-<a href="https://instagram.com/priyanshu_kr23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu_kr23" height="30" width="40" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikunal-04&label=Profile%20views&color=0e75b6&style=flat" alt="ikunal-04" /> </p>
+
+## About Me:
+- 🔭 I’m always building.
+- 🌱 I’m currently exploring **AI Agents**.
+- 👾 Know more about me [here.](https://drive.google.com/file/d/1rr1HUkeVHRkEa1EyuVZkFbCUn4ZnAM6c/view?usp=sharing)
+<!--- 👯 I’m looking to collaborate on a **Full stack and Blockchain projects**.-->
+<!--- 💬 Ask me about **Blockchain, Smart Contracts, DSA, and development**.-->
+
+<hr>
+
+
+## My Github Stats
+<div align="center">
+<!--   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ikunal-04&custom_title=Kunal%27s+GitHub+stats&show_icons=true&&hide_border=true&count_private=true&bg_color=00000000&title_color=F4EDAE&text_color=A8A162&icon_color=A8A162&cache_seconds=1800"/>
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ikunal-04&background=00000000&hide_border=true&stroke=F4EDAE&ring=F4EDAE&mode=weekly&fire=A8A162&currStreakNum=F4EDAE&sideNums=F4EDAE&currStreakLabel=A8A162&sideLabels=A8A162&dates=A8A162" /> -->
+     <img width="400px" src="https://raw.githubusercontent.com/ikunal-04/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+   <img width="400px" src="https://raw.githubusercontent.com/ikunal-04/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</div>
+
+<!--<hr>-->
+
+<!--
+## 🛠️ Languages and Tools :
+
+<div id="badges" align="center">
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,solidity,python,html,css,linux,npm,mongodb,express,react,nodejs,tailwind" />
+</a>
+   <br/>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,prisma,cloudflare,nextjs,postgresql,bash,docker,typescript,mysql" />
+</a>
+   <br/>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,ubuntu,vite" />
+</a>
+   <br/>
 </p>
+</div>
+-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<hr>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=priyanshu200223&show_icons=true&locale=en" alt="priyanshu200223" /></p>
+## Connect with me
+<a href="https://twitter.com/kunalg_twt">
+   <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
+<a href="https://www.linkedin.com/in/ikunal04/">
+   <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu200223&" alt="priyanshu200223" /></p>
+<!--
+<h1>All About Hacktoberfest</h1>
+
+[![@ikunal_04's Holopin board](https://holopin.me/ikunal_04)](https://holopin.io/@ikunal_04)
+-->
+
+<!--
+**ikunal-04/ikunal-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
