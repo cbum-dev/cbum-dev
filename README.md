@@ -12,14 +12,8 @@ Hey there! I'm **Priyanshu Kumar**, a passionate **Full Stack Developer** who lo
 - **Backend:** Node.js, Express.js, Django, FastAPI  
 - **Database:** MongoDB, PostgreSQL, Firebase  
 - **Tools:** Docker, Git, Postman, Vercel, AWS  
-- **Other:** REST APIs, GraphQL, WebSockets  
-
----
-
-## 📊 GitHub Stats  
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbum-dev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbum-dev&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbum-dev&theme=radical)  
+- **Other:** REST APIs, GraphQL, WebSockets
+- 
 
 ---
 
