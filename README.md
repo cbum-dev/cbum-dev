@@ -13,3 +13,4 @@ Hey there! I'm **Priyanshu Kumar**, a passionate **Full Stack Developer** who lo
 - **Tools:** Docker, Git, Postman, Vercel, AWS  
 - **Other:** REST APIs, GraphQL, WebSockets
 ---
+[![An image of @priyanshu200223's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu200223)](https://holopin.io/@priyanshu200223)
